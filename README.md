@@ -11,4 +11,4 @@ this our 3nd portfolio website
 # 4th
 this our 4th portfolio website 
  
- okay
+ bug 3 solved
